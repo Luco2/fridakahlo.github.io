@@ -1,0 +1,24 @@
+#image {
+    display: block;
+    max-width: 100%;
+    margin-left:auto; 
+    margin-right: auto;
+}
+#img-caption {
+    display: block;
+    max-width: 20%;
+    margin-left:auto; 
+    margin-right: auto;
+}
+#tribute-info {
+    display: block;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+#timeline {
+    display: block;
+    max-width: 50%;
+    margin-left:auto; 
+    margin-right: auto;
+}
